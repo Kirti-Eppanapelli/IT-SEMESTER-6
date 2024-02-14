@@ -32,10 +32,6 @@ Grocery App is designed to simplify your grocery shopping routine and save you t
 - **Add Items**: Add items to your shopping list with details like quantity and notes.
 - **Search Functionality**: Quickly find items in your list with the search feature.
 - **Expense Tracking**: Keep track of your expenses with a built-in budgeting tool.
-- **Sync Across Devices**: Sync your data across multiple devices using cloud storage (Firebase).
-- **Offline Support**: Access your shopping lists and data even without an internet connection.
-- **Push Notifications**: Receive reminders for upcoming shopping trips or special offers.
-- **Customization**: Customize categories, labels, and preferences to suit your needs.
 - **Feedback**: Provide feedback and suggestions directly through the app to help us improve.
 
 ## Installation
